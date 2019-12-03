@@ -1,6 +1,6 @@
 # Text Editor
 
-Simple text editor using windows form application c#. 
+Text editor using windows form application in c#. 
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ Use Visual Studio to open the project.
 
 ## License
 
-Open Source
+GNU General Public License v3.0
 
 ## Acknowledgments
 
