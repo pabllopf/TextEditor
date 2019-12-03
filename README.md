@@ -26,7 +26,7 @@ Use Visual Studio to open the project.
 
 ## License
 
-Open Source
+GNU General Public License v3.0
 
 ## Acknowledgments
 
