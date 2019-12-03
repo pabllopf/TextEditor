@@ -1,6 +1,6 @@
 # Text Editor
 
-Simple text editor using windows form application c#. 
+Text editor using windows form application in c#. 
 
 ## Getting Started
 
