@@ -1,6 +1,6 @@
-# Text Editor
+![image](https://github.com/user-attachments/assets/71925a04-76b8-4f26-b462-91eb730fca78)
 
-Text editor using windows form application in c#. 
+> Text editor using windows form application in c#. 
 
 ## Getting Started
 
